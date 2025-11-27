@@ -6,10 +6,11 @@ authors = [
     {name = "marius-ne",email = "m.e.neuhalfen@t-online.de"}
 ]
 readme = "README.md"
-requires-python = ">=3.11"
+requires-python = ">=3.11,<3.13"
 dependencies = [
     "ultralytics (>=8.3.232,<9.0.0)",
-    "ipykernel (>=7.1.0,<8.0.0)"
+    "ipykernel (>=7.1.0,<8.0.0)",
+    "inference-sdk (>=0.62.2,<0.63.0)"
 ]
 
 
