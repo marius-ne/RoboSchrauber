@@ -1,0 +1,21 @@
+samples:
+- image: data/ATPfinal/test_images_2026022/frame_000449.png
+  mask: data/ATPfinal/deeplab_masks/frame_000449_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000109.png
+  mask: data/ATPfinal/deeplab_masks/frame_000109_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000249.png
+  mask: data/ATPfinal/deeplab_masks/frame_000249_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000215.png
+  mask: data/ATPfinal/deeplab_masks/frame_000215_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000232.png
+  mask: data/ATPfinal/deeplab_masks/frame_000232_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000131.png
+  mask: data/ATPfinal/deeplab_masks/frame_000131_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000068.png
+  mask: data/ATPfinal/deeplab_masks/frame_000068_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000293.png
+  mask: data/ATPfinal/deeplab_masks/frame_000293_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000438.png
+  mask: data/ATPfinal/deeplab_masks/frame_000438_deeplab_mask.png
+- image: data/ATPfinal/test_images_2026022/frame_000008.png
+  mask: data/ATPfinal/deeplab_masks/frame_000008_deeplab_mask.png

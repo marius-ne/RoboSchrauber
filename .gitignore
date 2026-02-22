@@ -214,4 +214,5 @@ __marimo__/
 data
 # Ignore YOLO runs
 runs/
-
+# SAM Model weights
+*.pth
