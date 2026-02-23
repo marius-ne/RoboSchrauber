@@ -11,6 +11,10 @@ dependencies = [
     "ultralytics (>=8.3.232,<9.0.0)",
     "ipykernel (>=7.1.0,<8.0.0)",
     "label-studio (>=1.21.0,<2.0.0)",
+    "roboflow (>=1.2.14,<2.0.0)",
+    "opencv-python (<4.13) ; python_version >= \"3.11\" and python_version < \"4.0\"",
+    "plotly (>=6.5.2,<7.0.0)",
+    "nbformat (>=5.10.4,<6.0.0)",
 ]
 
 
