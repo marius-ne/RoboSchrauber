@@ -216,3 +216,4 @@ data
 runs/
 # SAM Model weights
 *.pth
+*.zip
